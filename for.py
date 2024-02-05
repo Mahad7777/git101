@@ -1,4 +1,4 @@
-# sum = 0
+# sum = 1
 # for i in range(10,21,2):
 #     sum += i
 #     print(i)
